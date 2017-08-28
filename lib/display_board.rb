@@ -3,7 +3,7 @@
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-def display_board(test)
+def display_board(board)
   puts board
 end
 
