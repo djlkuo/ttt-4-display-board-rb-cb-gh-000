@@ -5,6 +5,6 @@ def display_board(rows)
   puts rows[0]
 end
 
-board = [" "," "," "," "," "," "," "," "," "]
+board = [" test "," "," "," "," "," "," "," "," "]
 
 display_board(board)
