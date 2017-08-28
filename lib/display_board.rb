@@ -3,7 +3,7 @@
 
 def display_board(board)
   board = ["   |   |   ","-----------","   |   |   ","-----------","   |   |   "]
-  puts 
+  puts
 end
 
-display_board(1,)
+display_board(1)
