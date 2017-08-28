@@ -2,7 +2,7 @@
 # out the current state.
 
 def display_board(name)
-  puts #{p1}
+  puts name
 end
 
 display_board
