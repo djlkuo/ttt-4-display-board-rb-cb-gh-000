@@ -2,7 +2,7 @@
 # out the current state.
 
 def display_board(board)
-  puts rows[0] = 
+  puts rows = [" "+board[0]+" "
 end
 
 board = [" "," "," "," "," "," "," "," "," "]
