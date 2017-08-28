@@ -4,7 +4,7 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(test)
-  puts board
+  puts test
 end
 
 display_board(0)
