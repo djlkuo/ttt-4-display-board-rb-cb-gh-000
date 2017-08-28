@@ -1,7 +1,7 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 
-def display_board(p1='test',p2='',p3='',p4='',p5='',p6='',p7='',p8='',p9='')
+def display_board
 
 end
 
