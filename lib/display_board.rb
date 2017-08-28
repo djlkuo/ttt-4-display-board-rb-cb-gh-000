@@ -6,4 +6,4 @@ def display_board(p1='',p2='',p3='')
   puts
 end
 
-display_board(1)
+display_board(1,2,3)
