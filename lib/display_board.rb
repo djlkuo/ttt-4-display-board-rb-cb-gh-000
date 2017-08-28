@@ -2,7 +2,7 @@
 # out the current state.
 
 def display_board(p1='',p2='',p3='')
-  puts board = [" #{p1} | #{p2} | #{p3} ","-----------","   |   |   ","-----------","   |   |   "]
+  puts board = [" #{p1} | #{p2} | #{p3} ","-----------"," #{p4} | #{p5} | #{p6} ","-----------"," #{p7} | #{p8} | #{p9} "]
 end
 
 display_board(1,2,3)
