@@ -2,7 +2,7 @@
 # out the current state.
 
 def display_board(p1='one')
-  puts '#{p1}'
+  puts #{p1}
 end
 
 display_board
