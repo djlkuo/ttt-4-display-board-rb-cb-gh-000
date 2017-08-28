@@ -6,7 +6,7 @@ def display_board(p1='',p2='',p3='',p4='',p5='',p6='',p7='',p8='',p9='')
   line2=[p4,p5,p6]
   line3=[p7,p8,p9]
   cal=p1+p2
-  puts "#{line1},"#{line2}","#{line3}",cal
+  puts 
 end
 
 display_board(1,2,3)
