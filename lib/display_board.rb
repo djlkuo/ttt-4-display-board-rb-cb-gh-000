@@ -5,4 +5,4 @@ def display_board(p1='',p2='',p3='')
   puts p1
 end
 
-display_board
+display_board(x)
