@@ -4,7 +4,7 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(test)
-  puts rows = [" "+board[0]+" | "+board[1]+" | "+board[2]+" ","-----------"," "+board[3]+" | "+board[4]+" | "+board[5]+" ","-----------"," "+board[6]+" | "+board[7]+" | "+board[8]+" "]
+  puts rows = [" "+test[0]+" | "+test[1]+" | "+test[2]+" ","-----------"," "+test[3]+" | "+test[4]+" | "+test[5]+" ","-----------"," "+test[6]+" | "+test[7]+" | "+test[8]+" "]
 end
 
 # display_board(board)
